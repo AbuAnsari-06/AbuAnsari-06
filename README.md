@@ -14,7 +14,7 @@
 
 | 🎓 Education | 🎯 Focus | 🔬 Research | 🚀 Availability |
 |:---|:---|:---|:---|
-| **B.Tech CSE (AI/ML)**<br/>PSIT Kanpur · 2023–2027 | **Backend & Distributed Systems**<br/>FastAPI · PostgreSQL · Celery | **Empirical LLM Behavior**<br/>MoE Routing & CoT Language Drift | **Internships & Open Source**<br/>Backend · DevOps · AI Systems |
+| **B.Tech CSE (AI/ML)**<br/>PSIT Kanpur · Class of '29 | **Backend & Distributed Systems**<br/>FastAPI · PostgreSQL · Celery | **Empirical LLM Behavior**<br/>MoE Routing & CoT Language Drift | **Internships & Open Source**<br/>Backend · DevOps · AI Systems |
 
 </div>
 
