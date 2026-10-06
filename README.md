@@ -20,7 +20,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📌 /about
+## 📌 About
 
 I am a second-year Computer Science (AI/ML) student focused on backend engineering, distributed workflows, and DevOps. I enjoy engineering systems where the data model, background task queue, and deployment pipelines remain robust under production loads.
 
@@ -28,7 +28,7 @@ Alongside backend development, I conduct empirical evaluations on language model
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🔬 /research
+## 🔬 Research
 
 ### Language-Switching in DeepSeek-R1/V3 Reasoning
 
@@ -45,7 +45,7 @@ An independent 50-run controlled investigation into why the Chain-of-Thought (Co
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ⚡ /featured-projects
+## ⚡ Featured-projects
 
 ### 01 · UNISAFETY — Real-Time Emergency Coordination & Consensus Platform
 
@@ -80,7 +80,7 @@ An audio performance engine that transforms story prose into an expressive multi
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ /stack
+## 🛠️ Stack
 
 | Domain | Technologies & Frameworks |
 |:---|:---|
@@ -90,13 +90,10 @@ An audio performance engine that transforms story prose into an expressive multi
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ⚡ /now
+## ⚡ Now
 
 ```yaml
 current_focus:
-  building:
-    - UNISAFETY: Real-time emergency dispatch and incident consensus
-    - CarbonMitra: Sentinel-2 satellite data ingestion pipeline
   studying:
     - Data Structures & Algorithms (Striver's A2Z Sheet, in C++)
     - Linux internals, Docker containerization, and backend fundamentals
@@ -109,7 +106,7 @@ current_focus:
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🤝 /open-to
+## 🤝 Open-to
 
 | Category | Areas of Interest |
 |:---|:---|
@@ -119,7 +116,7 @@ current_focus:
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📈 /activity
+## 📈 Activity
 
 <div align="center">
 
