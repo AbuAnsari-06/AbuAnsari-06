@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/abu-horairah-ansari"><img src="assets/badge-linkedin.svg" alt="LinkedIn" height="34" /></a>
 &nbsp;
-<a href="mailto:abuansarilucknow@gmail.com"><img src="assets/badge-email.svg" alt="Email" height="34" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abuansarilucknow@gmail.com&su=Hello%20Abu&body=Hi%20Abu%2C%0A%0A"><img src="assets/badge-email.svg" alt="Email" height="34" /></a>
 &nbsp;
 <a href="https://github.com/AbuAnsari-06/deepseek-cot-language-investigation"><img src="assets/badge-research.svg" alt="Research Report" height="34" /></a>
 
